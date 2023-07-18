@@ -43,7 +43,7 @@ async fn main() -> Result<(), Error> {
         package.modules.clone(),
         module_name.to_string(),
         // Start/stop block are not handled within this project, feel free to play with it
-        205677236,
+        0,
         0,
     );
 

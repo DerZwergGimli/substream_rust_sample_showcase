@@ -10,6 +10,7 @@ https://github.com/streamingfast/substreams-eth-block-meta/releases/tag/v0.5.1
 
 # Setup/SOL
 1. `cargo run mainnet.sol.streamingfast.io:443 substreams_sol.spkg map_sa_trades`
+2. `cargo run mainnet.sol.streamingfast.io:443 substreams_sol.spkg db_out`
 
 ## Sample output
 
